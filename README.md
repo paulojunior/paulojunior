@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Node JS
-- 🌱 I’m currently learning Go and Flutter
+- 🔭 I’m currently working on Go Lang
+- 🌱 I’m currently learning Python and Flutter
 
 
  <div>
